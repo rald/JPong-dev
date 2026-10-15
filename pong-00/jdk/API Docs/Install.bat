@@ -1,0 +1,1 @@
+copy wwhelp.dll %WINDIR%\SYSTEM
